@@ -1,10 +1,8 @@
 ### Hi there 👋 Its me Lohith Srinivas
 
 
-I am pursuing my BTech in PES university
+I am pursuing my BTech in PES university.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 💬 Ask me about (https://www.github.com/lohith261201/issues)
 
 
